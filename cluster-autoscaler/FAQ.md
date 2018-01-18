@@ -102,7 +102,7 @@ there is a big chance that it won't work as expected.
 
 ### Is Cluster Autoscaler an Alpha, Beta or GA product?
 
-Sice version 1.0.0 we consider CA as GA. It means that:
+Since version 1.0.0 we consider CA as GA. It means that:
 
  * We have enough confidence that it does what it is expected to do. Each commit goes through a big suite of unit tests
    with more than 75% coverage (on average). We have a series of e2e tests that validate that CA works well on
